@@ -7,6 +7,7 @@ Topics:
 - Handling Exceptions (```try```- ```catch```)
 - Custom Exceptions
 - Custom Stack & Queue
+- Data Structures
 - Static Methods
 - Objects
 - Inheritance
