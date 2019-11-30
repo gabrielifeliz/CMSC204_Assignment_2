@@ -9,7 +9,6 @@ Topics:
 - Custom Stack & Queue
 - Static Methods
 - Objects
-- File Input
 - Inheritance
 - Private Classes
 - GUI Application (JavaFX)
